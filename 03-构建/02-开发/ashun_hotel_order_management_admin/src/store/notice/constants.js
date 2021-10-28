@@ -1,0 +1,1 @@
+export const UPDATE_ALL_NOTICE = "UPDATE_ALL_NOTICE";

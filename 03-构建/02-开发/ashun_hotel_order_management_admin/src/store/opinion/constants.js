@@ -1,0 +1,1 @@
+export const UPDATE_ALL_OPINION = "UPDATE_ALL_OPINION";
